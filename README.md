@@ -80,14 +80,23 @@ Keep the terminal window open. Uses sample_input.txt as the default transcript.
 ## File structure
 
 utopia-content-agent/
+
 ├── agent.py            # Core logic: Gemini API call, JSON parsing
+
 ├── app.py              # Streamlit UI: input, output display, Slack send
+
 ├── prompts.py          # System prompt: studio voice, LAUNCH framework, output format
+
 ├── slack_sender.py     # Slack webhook integration
+
 ├── scheduler.py        # Daily automated run at 09:00 Doha time
+
 ├── sample_input.txt    # The exact transcript used in the Loom demo
+
 ├── sample_output.json  # The exact output produced in the Loom demo
+
 ├── requirements.txt    # Python dependencies
+
 └── README.md           # This file
 
 ---
