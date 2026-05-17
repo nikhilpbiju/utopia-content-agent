@@ -133,7 +133,7 @@ it should be readable, editable, and improvable independently of the code.
 
 See sample_input.txt — a realistic Granola-style transcript from a 
 venture discovery call between Utopia Studio's Fellowships Lead and 
-Ahmed Al-Mansoori, founder of LogiQ.
+Ahmed Al-Mansoori, founder of LogiQ. (All characters are fictional)
 
 ---
 
