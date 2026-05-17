@@ -1,0 +1,41 @@
+Utopia Studio — Venture Discovery Call
+Date: May 14, 2026
+Attendees: Sara (Utopia Studio, Fellowships Lead), Ahmed Al-Mansoori (Founder, LogiQ)
+
+[09:12] Sara: Ahmed, thanks for making the time. Before we dig into the 
+product, can you just walk me through the specific problem you're solving?
+
+[09:13] Ahmed: Sure. So in Qatar, the logistics sector moves about 4.2 billion 
+dollars of goods annually, but the data infrastructure is basically non-existent. 
+Warehouse management systems don't talk to transport providers, transport 
+providers don't talk to customs, customs doesn't talk to the end recipient. 
+Every handoff is a phone call or a WhatsApp message.
+
+[09:16] Sara: How are companies handling it today?
+
+[09:17] Ahmed: Manual reconciliation. I talked to a warehouse operator last 
+week running 60 staff members whose entire job is just — matching shipment 
+records between systems. That's 60 people doing work software should do.
+
+[09:19] Sara: And your solution is the integration layer between those systems?
+
+[09:20] Ahmed: Exactly. We're building an API-first middleware that sits 
+between the existing systems. No rip-and-replace. They keep their tools, 
+we just make them talk to each other. Early pilots are showing 40% reduction 
+in manual reconciliation work.
+
+[09:24] Sara: The 40% — is that across all the pilot customers or one?
+
+[09:25] Ahmed: That's across three pilots. Smallest is a 12-person operation, 
+largest is about 200 staff. The pattern holds regardless of company size which 
+surprised us honestly.
+
+[09:28] Sara: That's the number to lead with. What does the path to 
+discovery calls look like for you right now?
+
+[09:30] Ahmed: Slow. We have three warm intros but they're all UAE-based. 
+We need Qatar-based customers specifically for the G0 review.
+
+[09:32] Sara: Okay. I know two warehouse operators in Doha directly. 
+I'm going to make those introductions this week. Let's reconvene Friday 
+to see where the pipeline stands.
